@@ -7,14 +7,18 @@ layout: home
 
 &nbsp;
 
-TEAMMATE is a technology consulting firm to help you in any area that you need help in
+Teammate is a technology consulting firm that helps you for all your advanced needs in today's fast changing world 
 
 Our expertise includes:
-Sofware
-Hardware
-System architecture
-Cloud computing
-Networks
+* Sofware
+* Hardware
+* System architecture
+* Cloud computing
+* Networks
+
+You and us, we are teammates!
+
+Please [contact us](teammatetechnologyconsulting@gmail.com)!
 
 &nbsp;
 
