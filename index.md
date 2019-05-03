@@ -7,9 +7,14 @@ layout: home
 
 &nbsp;
 
-Teknoloji — finans kesişiminde karalamalar. 
+TEAMMATE is a technology consulting firm to help you in any area that you need help in
 
-Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri. 
+Our expertise includes:
+Sofware
+Hardware
+System architecture
+Cloud computing
+Networks
 
 &nbsp;
 
