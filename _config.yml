@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   TEMMATE DOO PRIBOJ
   Ulica 12. Januara BB,Priboj
   MATIČNI BROJ:21457825
-  PIB:111299120"
+  PIB:111299120
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.teammate.technology" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
