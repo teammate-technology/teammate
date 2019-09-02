@@ -11,6 +11,8 @@ TEAMMATE also helps you identify your organizational needs and provides optimal 
 
 <img align="left" src="/assets/TS_Profile_Pic_190723_3_400.png"> 
 
+&nbsp; 
+
 TEAMMATE is founded by Turan Sert. 
 
 Mr. Sert is a former investment banker and management consultant, having had an extensive work experience in United States of America, Russian Federation and Turkey. 
