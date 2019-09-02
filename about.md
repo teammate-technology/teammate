@@ -9,7 +9,9 @@ including software, hardware, cloud computing.
 
 TEAMMATE also helps you identify your organizational needs and provides optimal solutions such as organizational design, change management. 
 
-<img align="left" src="/assets/TS_Profile_Pic_190723_3_400.png"> TEAMMATE is founded by Turan Sert. 
+<img align="left" src="/assets/TS_Profile_Pic_190723_3_400.png"> 
+
+TEAMMATE is founded by Turan Sert. 
 
 Mr. Sert is a former investment banker and management consultant, having had an extensive work experience in United States of America, Russian Federation and Turkey. 
 
