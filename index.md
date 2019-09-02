@@ -15,6 +15,9 @@ Our expertise includes:
 * System architecture
 * Cloud computing
 * Networks
+* Organizational design
+* Change management
+* Process optimization
 
 You and us, we are teammates!
 
