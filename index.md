@@ -10,7 +10,7 @@ layout: home
 Teammate is a technology consulting firm that helps you for all your advanced needs in today's fast changing world 
 
 Our expertise includes:
-* Sofware
+* Software
 * Hardware
 * System architecture
 * Cloud computing
