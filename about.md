@@ -21,5 +21,10 @@ He worked at companies such as Booz Allen Hamilton, Arthur Andersen, Garanti Ban
 
 Mr. Sert has earned an MBA degree from Harvard Business School in 2001. 
 
+&nbsp;
+&nbsp;
+
+
+&nbsp;
 
 We are here to help you. Please contact us!
