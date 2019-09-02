@@ -17,8 +17,12 @@ title: "TEAMMATE Technology - Consulting"
 email: teammatetechnologyconsulting@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are here for all your technology needs 
+  TEMMATE DOO PRIBOJ
+  ULICA 12. JANUARA BB,PRIBOJ
+  MATIČNI BROJ:21457825
+  PIB:111299120
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.teammate.technology" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 logo: "/teammate_logo.png"
